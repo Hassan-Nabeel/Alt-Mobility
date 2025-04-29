@@ -7,7 +7,7 @@ This repository contains the analysis, insights, and strategic recommendations f
 
 ## Approach
 
-1. Data Collection & Preparation
+### 1. Data Collection & Preparation
 
 Source Data: Collected operational data from Alt Mobility's order management system, payment processing platform, and customer database
 
@@ -15,7 +15,7 @@ Data Cleaning: Standardized date formats, removed duplicate entries, and validat
 
 Data Integration: Combined order, customer, and payment datasets using unique identifiers (order IDs and customer IDs)
 
-2. Analysis Methodology
+### 2. Analysis Methodology
 
 Order & Sales Analysis:
 
