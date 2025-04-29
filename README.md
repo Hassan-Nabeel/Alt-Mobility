@@ -17,7 +17,7 @@ Data Integration: Combined order, customer, and payment datasets using unique id
 
 ### 2. Analysis Methodology
 
-Order & Sales Analysis:
+# Order & Sales Analysis:
 
 Segmented orders by status (pending, shipped, delivered)
 
@@ -27,7 +27,7 @@ Performed time series analysis on monthly and yearly sales trends
 
 Identified seasonal patterns in order volume and value
 
-Customer Analysis:
+# Customer Analysis:
 
 Segmented customers by purchase frequency
 
@@ -37,7 +37,7 @@ Analyzed purchase patterns of repeat customers
 
 Identified characteristics of high-value customers
 
-Payment Analysis:
+# Payment Analysis:
 
 Evaluated performance metrics across payment methods
 
@@ -47,7 +47,7 @@ Analyzed customer payment preferences
 
 Quantified the financial impact of failed payments
 
-Retention Analysis:
+# Retention Analysis:
 
 Created customer cohorts based on first purchase date
 
