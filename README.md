@@ -19,40 +19,40 @@ Data Integration: Combined order, customer, and payment datasets using unique id
 
 #### Order & Sales Analysis:
 
-Segmented orders by status (pending, shipped, delivered)
+- Segmented orders by status (pending, shipped, delivered)
 
-Calculated average order values by status
+- Calculated average order values by status
 
-Performed time series analysis on monthly and yearly sales trends
+- Performed time series analysis on monthly and yearly sales trends
 
-Identified seasonal patterns in order volume and value
+- Identified seasonal patterns in order volume and value
 
 #### Customer Analysis:
 
-Segmented customers by purchase frequency
+- Segmented customers by purchase frequency
 
-Calculated customer lifetime value metrics
+- Calculated customer lifetime value metrics
 
-Analyzed purchase patterns of repeat customers
+- Analyzed purchase patterns of repeat customers
 
-Identified characteristics of high-value customers
+- Identified characteristics of high-value customers
 
 #### Payment Analysis:
 
-Evaluated performance metrics across payment methods
+- Evaluated performance metrics across payment methods
 
-Calculated success/failure rates for each payment type
+- Calculated success/failure rates for each payment type
 
-Analyzed customer payment preferences
+- Analyzed customer payment preferences
 
-Quantified the financial impact of failed payments
+- Quantified the financial impact of failed payments
 
 #### Retention Analysis:
 
-Created customer cohorts based on first purchase date
+- Created customer cohorts based on first purchase date
 
-Calculated retention rates by cohort month
+- Calculated retention rates by cohort month
 
-Performed percentage sum retention analysis
+- Performed percentage sum retention analysis
 
-Compared retention trends across different time periods
+- Compared retention trends across different time periods
